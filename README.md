@@ -38,10 +38,15 @@ this is Sabt Tier Dolati
 
 
            .  pip binstall requests
+           
            .  pip install colorama
+           
            .  pip install time
+           
            .  pip install khayyam
+           
            .  pip install rainbowtex
+           
            .  pip install pyfiglet
 اگر باز هم به ارور برخوردید با ایمیل پشتیبانی تماس حاصل فرمایید
 
