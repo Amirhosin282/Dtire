@@ -33,12 +33,16 @@ this is Sabt Tier Dolati
 
 :اگر با مشکلی مواجه شدید دستور العمل های زیر را انجام دهید
 وارد ترمینال خود شوید (پاور شل)و دستورات زیر را وارد کنید
-.  pip binstall requests
-.  pip install colorama
-.  pip install time
-.  pip install khayyam
-.  pip install rainbowtex
-.  pip install pyfiglet
+
+
+
+
+           .  pip binstall requests
+           .  pip install colorama
+           .  pip install time
+           .  pip install khayyam
+           .  pip install rainbowtex
+           .  pip install pyfiglet
 اگر باز هم به ارور برخوردید با ایمیل پشتیبانی تماس حاصل فرمایید
 
 
@@ -52,7 +56,4 @@ amirhosinasdpwr@gmail.com
 
 amirhosin282
 
-                                                                        
-                                                                        
-                                                                        
-                                                                        ®2024 Amirhosin282 IR, Inc All rights reserved
+®2024 Amirhosin282 IR, Inc All rights reserved
