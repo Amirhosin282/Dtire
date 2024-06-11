@@ -17,4 +17,4 @@ go to tuturial file and install pips on terminal (if you use windows beter is us
 # this is 1.3 demo file
 
 
-2.01 coming soon ( 13 june or sooner)
+2.01 coming soon ( 30 june or sooner )
