@@ -12,5 +12,9 @@ go to tuturial file and install pips on terminal (if you use windows beter is us
 
 ®2024 Amirhosin282 IR, Inc All rights reserved
 
+
+
 #this is 1.3 demo file
+
+
 2.01 coming soon ( 13 june or sooner)
