@@ -10,6 +10,10 @@ try this:
 go to tuturial file and install pips on terminal (if you use windows beter is use powershell)
 
 
+
+
+by amirhsin282
+
 ®2024 Amirhosin282 IR, Inc All rights reserved
 
 
