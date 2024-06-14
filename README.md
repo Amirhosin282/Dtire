@@ -36,7 +36,7 @@ v : 1.3
 
 up version is 1.3.5
 
-2.01 coming soon ( 30 june or sooner )
+2.01 coming soon ( 30 june or one month later )
 
 # spansers : 
 
