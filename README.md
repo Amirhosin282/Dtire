@@ -34,7 +34,7 @@ v : 1.3
 
 . 1.3.5
 
-up version is 1.3.5
+up version is 2.01.1
 
 2.01 coming soon ( 30 june or one month later )
 
