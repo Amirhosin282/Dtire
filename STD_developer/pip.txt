@@ -1,6 +1,0 @@
-requests
-time
-khayyam
-pyfiglet
-rainbowtex
-colorama
