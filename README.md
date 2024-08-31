@@ -1,7 +1,7 @@
 # ربات ثبت نام لاستیک دولتی             Dtireb(oldest STD)
 
-### test
-
+``` test
+```
 this is Sabt Tier Dolati
 
 tuturial is in ثبت نام لاستیک/آموزش.txt
