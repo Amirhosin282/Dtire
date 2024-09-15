@@ -107,7 +107,8 @@ if __name__ == '__main__': # if user run main file. file run
                 ).click()
                 
                 print(Fore.CYAN, "now you can buy tire")
-                sleep(999)
+                while True :
+                    sleep(999)
             except:
                 driver.refresh()
                 sleep(1.5)
