@@ -200,9 +200,9 @@ if __name__ == '__main__': # if user run main file. file run
     #         print(Fore.RED, "you have internet error or invalid informatition")
     #         exit(8, 0) # return error and exit
 
-    # elif login_or_signin == 'e':
-    #     sys.exit() # exit from user
-    # else:
-    #     print(Fore.RED, "invalid command")
-    #     sleep(3)
-    #     sys.exit() # return error and exit
+    elif 'E' or 'e' in login_or_signin:
+        exit(0.25,1) # exit from user
+    else:
+        print(Fore.RED, "invalid command")
+        sleep(3)
+        sys.exit() # return error and exit
