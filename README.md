@@ -2,11 +2,10 @@
 this project for buy tire Governmentally
 this project has 2 orginal version
 
-## 2.01 (complited)
+## 2.0.1 (complited)
 this version login to 'سامانه تخصیص' and give address of tire dealers
 
 ## 3.0.1 (faild)
-(github folder name = Dtire)
 this version login to 'kavir tire' site and buy tire
 
 ### cause of failure: 
