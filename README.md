@@ -14,7 +14,7 @@ Lack of need in the market.
 When the project is finished. It was found that the problem of the site has been solved and there is no need for a robot to register and buy
 
 ## framework and pips
-in this project im use 'selenium'
+in this project i'm use 'selenium'
 
 ### for install:
 
