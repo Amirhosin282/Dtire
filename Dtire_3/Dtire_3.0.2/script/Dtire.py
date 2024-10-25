@@ -100,7 +100,7 @@ if __name__ == '__main__': # if user run main file. file run
 
 
     elif login_or_signin == 'n' or login_or_signin == 'no' or login_or_signin == 'N' or login_or_signin == 'NO': # if user print no (login or signin)
-        print(Fore.RED, "come in next update ;)")
+        print(Fore.RED, "come in 4.0.1 update ;)")
         exit(0.25, 5)
     #     print(Fore.GREEN)
         
