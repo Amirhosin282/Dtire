@@ -1,7 +1,7 @@
 
 <div dir="ltr">
 
-# MIT License (English Version)
+# MIT License 
 
 **Copyright (c) 2023 Amirhossein Asadpur**
 
