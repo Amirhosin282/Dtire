@@ -86,5 +86,15 @@ graph TD
 | پشتیبانی پروکسی      | پایه        | پیشرفته        |
 | نصب                   | PIP          | نصب‌کننده EXE   |
 
+## ⚙️ معماری فنی:
+```mermaid
+graph TD
+    A[Input Parameters] --> B{نسخه}
+    B -->|اسکریپت| C[دسترسی سریع تر]
+    B -->|نصب کننده ویندوز| D[دسترسی راحت تر]
+    C & D --> E[جریان خرید]
+```
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=30)
 
