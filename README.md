@@ -18,12 +18,6 @@
   - Multi-threaded operation
   - Proxy rotation system
 
-```python
-# Sample of Windows CLI implementation
-class TirePurchaser:
-    def __init__(self):
-        self.mode = "windows_cli"  # or "script"
-```
 
 ## ⚠️ Current Status
 ### Project is inactive because:
