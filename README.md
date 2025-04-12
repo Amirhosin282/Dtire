@@ -50,7 +50,7 @@ graph TD
     C & D --> E[Purchase Flow]
 ```
 
----
+
 ![Version Timeline](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
 # 🚗 دی تایر - سیستم خرید خودکار لاستیک دولتی
 
