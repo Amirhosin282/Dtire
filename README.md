@@ -1,36 +1,39 @@
-# Dtire(faild)
-this project for buy tire Governmentally
-this project has 2 orginal version
+# 🚗 Dtire - Government Tire Purchase Automation System
 
-## 2.0.1 (complited)
-this version login to 'سامانه تخصیص' and give address of tire dealers
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
+![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## 3.0.1 (faild)
-this version login to 'kavir tire' site and buy tire
+**Advanced automated system for purchasing government-subsidized tires**  
+*(Deprecated due to policy changes - Preserved as top project for technical excellence)*
 
-### cause of failure: 
-Lack of need in the market.
+## 🌟 Key Features
+- **Dual Implementation**:
+  - CLI Script version (Lightweight)
+  - Windows Command-line Application (Enhanced)
+- **Core Functionality**:
+  - Real-time inventory monitoring
+  - Multi-threaded operation
+  - Proxy rotation system
 
-When the project is finished. It was found that the problem of the site has been solved and there is no need for a robot to register and buy
-
-## framework and pips
-in this project i'm use 'selenium'
-
-### for install:
-
+```python
+# Sample of Windows CLI implementation
+class TirePurchaser:
+    def __init__(self):
+        self.mode = "windows_cli"  # or "script"
 ```
-pip install selenium
-pip install tqdm
-pip install colorama
-pip install khayyam
-pip install random
-pip install pyfiglet
-pip install rainbowtext
-pip install requests
-pip install platform
-```
+📦 Version Comparison
+Feature	Script Version	Windows CLI App
+Real-time Monitoring	✓	✓
+GUI Interface	✗	✗
+Proxy Support	Basic	Advanced
+Installation	PIP	EXE Installer
+⚙️ Technical Architecture
 
-## Thanks to :
-sepehr Internet cafe for spansering
-and
-mohammadreza alipur for free testing
+graph TD
+    A[Input Parameters] --> B{Version}
+    B -->|Script| C[Quick Execution]
+    B -->|Windows CLI| D[Persistent Service]
+    C & D --> E[Purchase Flow]
+    
