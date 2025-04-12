@@ -33,6 +33,8 @@ class TirePurchaser:
 
 
 
+
+
 ## 📦 Version Comparison
 | Feature               | Script Version | Windows CLI App |
 |-----------------------|----------------|-----------------|
@@ -49,15 +51,58 @@ graph TD
     B -->|Windows CLI| D[Easier access]
     C & D --> E[Purchase Flow]
 ```
+Here's the English version of your Dtire project version history:
 
+```markdown
+# 🔍 Dtire Version Differences
+
+## 🏷️ Version 2.0.1 (First Stable Release)
+**Release Date:** February 4, 2023  
+**Key Features:**
+```diff
++ First stable version
++ Support for Allocation System
++ Basic CAPTCHA solving
+- No proxy support
+```
+
+**Fixed Issues:**
+1. Government system connection bugs
+2. Final purchase confirmation issues
+3. Data formatting errors
+
+## 🏷️ Version 3.0.1 (Major Upgrade)
+**Release Date:** April 25, 2023  
+**Key Improvements:**
+
+**Enhancements List:**
+1. ⚡ Added Kavir Tire System support
+2. 📊 Advanced logging system
+
+## 🏷️ Version 3.0.2 (Final Version)
+**Release Date:** August 11, 2023  
+**Technical Improvements:**
+
+| Component       | Changes                    | Performance Impact |
+|----------------|---------------------------|--------------------|
+| Core Engine    | Multi-threading optimized | 40% faster         |
+| Error Handling | Auto-debugging system      | 70% fewer errors   |
+
+**Execution Example:**
+```bash
+# New command in v3.0.2
+python dtire.py --mode=express --proxy=tor
+```
+
+## 📊 Technical Version Comparison
+```mermaid
+graph LR
+    A[2.0.1] -->|System Change| B[3.0.1]
+    B -->|Core Optimization| C[3.0.2]
+    C --> D[Project Discontinued]
+```
 
 ![Version Timeline](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
-# 🚗 دی تایر - سیستم خرید خودکار لاستیک دولتی
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
-![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **راهکار پیشرفته خرید خودکار لاستیک‌های دولتی**  
 *(منسوخ شده - حفظ شده به عنوان پروژه برتر فنی)*
