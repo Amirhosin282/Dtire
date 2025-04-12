@@ -1,3 +1,6 @@
+
+
+```
 # 🚗 Dtire - Government Tire Purchase Automation System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -23,17 +26,52 @@ class TirePurchaser:
     def __init__(self):
         self.mode = "windows_cli"  # or "script"
 ```
-📦 Version Comparison
-Feature	Script Version	Windows CLI App
-Real-time Monitoring	✓	✓
-GUI Interface	✗	✗
-Proxy Support	Basic	Advanced
-Installation	PIP	EXE Installer
-⚙️ Technical Architecture
 
+## 📦 Version Comparison
+| Feature               | Script Version | Windows CLI App |
+|-----------------------|----------------|-----------------|
+| Real-time Monitoring  | ✓              | ✓               |
+| GUI Interface         | ✗              | ✗               |
+| Proxy Support         | Basic          | Advanced        |
+| Installation          | PIP            | EXE Installer   |
+
+## ⚙️ Technical Architecture
+```mermaid
 graph TD
     A[Input Parameters] --> B{Version}
     B -->|Script| C[Quick Execution]
     B -->|Windows CLI| D[Persistent Service]
     C & D --> E[Purchase Flow]
-    
+```
+
+---
+
+# 🚗 دی تایر - سیستم خرید خودکار لاستیک دولتی
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
+![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+**راهکار پیشرفته خرید خودکار لاستیک‌های دولتی**  
+*(منسوخ شده - حفظ شده به عنوان پروژه برتر فنی)*
+
+## 🌟 ویژگی‌های کلیدی
+- **پیاده‌سازی دوگانه**:
+  - نسخه اسکریپت (سبک‌وزن)
+  - برنامه خط فرمان ویندوز (پیشرفته)
+- **قابلیت‌های اصلی**:
+  - رصد لحظه‌ای موجودی
+  - عملکرد چندنخی
+  - سیستم چرخش پروکسی
+
+## 📦 مقایسه نسخه‌ها
+| قابلیت               | نسخه اسکریپت | برنامه ویندوز |
+|-----------------------|--------------|---------------|
+| پایش لحظه‌ای          | ✓            | ✓              |
+| رابط گرافیکی         | ✗            | ✗              |
+| پشتیبانی پروکسی      | پایه        | پیشرفته        |
+| نصب                   | PIP          | نصب‌کننده EXE   |
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=30)
+```
