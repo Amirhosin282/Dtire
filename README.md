@@ -25,6 +25,14 @@ class TirePurchaser:
         self.mode = "windows_cli"  # or "script"
 ```
 
+## ⚠️ Current Status
+### Project is inactive because:
+  - Government policy changes
+  - Platform updates
+  - No longer needed
+
+
+
 ## 📦 Version Comparison
 | Feature               | Script Version | Windows CLI App |
 |-----------------------|----------------|-----------------|
