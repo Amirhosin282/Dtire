@@ -38,7 +38,7 @@ class TirePurchaser:
 graph TD
     A[Input Parameters] --> B{Version}
     B -->|Script| C[Quick Execution]
-    B -->|Windows CLI| D[Persistent Service]
+    B -->|Windows CLI| D[Easier access]
     C & D --> E[Purchase Flow]
 ```
 
