@@ -102,7 +102,11 @@ graph LR
 ```
 
 ![Version Timeline](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
-
+# 🚗 دی تایر - سیستم خرید خودکار لاستیک دولتی
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
+![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 **راهکار پیشرفته خرید خودکار لاستیک‌های دولتی**  
 *(منسوخ شده - حفظ شده به عنوان پروژه برتر فنی)*
 
