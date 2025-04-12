@@ -79,4 +79,4 @@ graph TD
 | نصب                   | PIP          | نصب‌کننده EXE   |
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=30)
-```
+
