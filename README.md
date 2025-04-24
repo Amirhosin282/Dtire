@@ -48,6 +48,8 @@ graph TD
 
 # 🔍 Dtire Version Differences
 
+**"The non-stable versions—which include Dtire 1.0.2, 1.0.3 demo, 1.0.3, 1.3.5 demo, 1.3.5, and 2.0.1 demo—were never archived in separate repositories nor made available online. The project’s requirements were fully defined by mid-2021, and active development commenced by the end of that same year (2021)."** 
+
 ## 🏷️ Version 2.0.1 (First Stable Release)
 **Release Date:** February 4, 2023  
 **Key Features:**
@@ -139,6 +141,8 @@ graph TD
 **توضیحات تفصیلی درباره نسخه‌های مختلف پروژه Dtire (2.01، 3.01 و 3.02):**
 
 # 🔍 تفاوت‌های نسخه‌های Dtire
+
+( نسخه های غیر پایدار که شامل Dtire 1.0.2, 1.0.3 demo, 1.0.3, 1.3.5, demo, 1.3.5, 2.0.1 demo هیچ گونه آرشیو و ریپازیتوری دیگری ندارند و به صورت آنلاین در بستر اینترنت به اشتراک گذاشته نشدند، نیازمندی های این ایده از اواسط تامین و در در اواخر همان سال ساخت پروژه شروع شد1401 سال )
 
 ## 🏷️ نسخه 2.0.1 (اولین نسخه پایدار)
 **تاریخ انتشار:** 15 بهمن 1401  
