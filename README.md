@@ -38,11 +38,11 @@
 
 ## ⚙️ Technical Architecture
 ```mermaid
-graph LR
-    A[1.0.2 & 1.0.2 Demo] & B[1.0.3 & 1.0.3 Demo] --> |Protocol Update| C[1.3.5, 1.3.5, Demo]
-    C --> |Target Achieved| D[2.0.1] -->|System Upgrade| E[3.0.1]
-    E -->|Core Enhancements| F[3.0.2]
-    F --> |Market Balance| G[Project Halted]
+graph TD
+    A[Input Parameters] --> B{Version}
+    B -->|Script| C[Quick Execution]
+    B -->|Windows CLI| D[Persistent Service]
+    C & D --> E[Purchase Flow]
 ```
 
 
@@ -91,9 +91,10 @@ python dtire.py --mode=express --proxy=tor
 ## 📊 Technical Version Comparison
 ```mermaid
 graph LR
-    A[2.0.1] -->|System Change| B[3.0.1]
-    B -->|Core Optimization| C[3.0.2]
-    C --> D[Project Discontinued]
+    A[1.0.2 & 1.0.2 Demo] & B[1.0.3 & 1.0.3 Demo] --> |Protocol Update| C[1.3.5, 1.3.5, Demo]
+    C --> |Target Achieved| D[2.0.1] -->|System Upgrade| E[3.0.1]
+    E -->|Core Enhancements| F[3.0.2]
+    F --> |Market Balance| G[Project stopd]
 ```
 
 ![Version Timeline](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
