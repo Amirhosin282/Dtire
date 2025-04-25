@@ -38,11 +38,11 @@
 
 ## ⚙️ Technical Architecture
 ```mermaid
-graph TD
-    A[Input Parameters] --> B{Version}
-    B -->|Script| C[Quick Execution]
-    B -->|Windows CLI| D[Easier access]
-    C & D --> E[Purchase Flow]
+graph LR
+    A[1.0.2 & 1.0.2 Demo] & B[1.0.3 & 1.0.3 Demo] --> |Protocol Update| C[1.3.5, 1.3.5, Demo]
+    C --> |Target Achieved| D[2.0.1] -->|System Upgrade| E[3.0.1]
+    E -->|Core Enhancements| F[3.0.2]
+    F --> |Market Balance| G[Project Halted]
 ```
 
 
