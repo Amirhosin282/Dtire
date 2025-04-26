@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
 ![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
+<a href = "https://github.com/Amirhosin282/Dtire/blob/main/LICENSE.md"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"> </a>
 <br>
 **Advanced automated system for purchasing government-subsidized tires**  
 *(Deprecated due to policy changes - Preserved as top project for technical excellence)*
@@ -102,6 +103,7 @@ graph LR
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
 ![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
+<a href = "https://github.com/Amirhosin282/Dtire/blob/main/LICENSE.md"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"> </a>
 <br>
 **راهکار پیشرفته خرید خودکار لاستیک‌های دولتی**  
 *(منسوخ شده - حفظ شده به عنوان پروژه برتر فنی)*
