@@ -1,0 +1,8 @@
+selenium
+tqdm
+khayyam
+colorama
+pyfiglet
+rainbowtext
+requests
+platform
